@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Partha-web/site.github.io/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Partha-web/site.github.io/static/js/main.a31ea749.chunk.js",
+    "main.js.map": "/Partha-web/site.github.io/static/js/main.a31ea749.chunk.js.map",
+    "runtime-main.js": "/Partha-web/site.github.io/static/js/runtime-main.a24ba28d.js",
+    "runtime-main.js.map": "/Partha-web/site.github.io/static/js/runtime-main.a24ba28d.js.map",
+    "static/js/2.4c66f3da.chunk.js": "/Partha-web/site.github.io/static/js/2.4c66f3da.chunk.js",
+    "static/js/2.4c66f3da.chunk.js.map": "/Partha-web/site.github.io/static/js/2.4c66f3da.chunk.js.map",
+    "static/js/3.db9a2808.chunk.js": "/Partha-web/site.github.io/static/js/3.db9a2808.chunk.js",
+    "static/js/3.db9a2808.chunk.js.map": "/Partha-web/site.github.io/static/js/3.db9a2808.chunk.js.map",
+    "index.html": "/Partha-web/site.github.io/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Partha-web/site.github.io/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4c66f3da.chunk.js.LICENSE.txt": "/Partha-web/site.github.io/static/js/2.4c66f3da.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Partha-web/site.github.io/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a24ba28d.js",
+    "static/js/2.4c66f3da.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a31ea749.chunk.js"
+  ]
+}
